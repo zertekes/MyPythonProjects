@@ -2,7 +2,7 @@
 # Copyright 2009-2017 BHG http://bw.org/
 
 def main():
-    for i in inclusive_range(25):
+    for i in inclusive_range(20):
         print(i, end = ' ')
     print()
 
